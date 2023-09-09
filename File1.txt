@@ -1,2 +1,0 @@
-Welcome to Edureka
-Welcome to DevOps with Continous Testing
